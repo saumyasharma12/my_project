@@ -1,0 +1,12 @@
+{
+  "name": "@commerce/ui",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "./src/index.tsx",
+  "types": "./src/index.tsx",
+  "dependencies": {
+    "@types/react": "18.3.12",
+    "react": "18.3.1"
+  }
+}
